@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/towers">
+        <file>assets/tower1.bmp</file>
+        <file>assets/tower2.bmp</file>
+        <file>assets/construction.bmp</file>
+        <file>assets/fortress_tower.png</file>
+        <file>assets/magic_tower.png</file>
+        <file>assets/mortar.png</file>
+        <file>assets/trap_tower.png</file>
+        <file>assets/great_wall_tower.png</file>
+        <file>assets/guard_tower.png</file>
+        <file>assets/spawn_tower.png</file>
+    </qresource>
+    <qresource prefix="/maps">
+        <file>assets/map1.bmp</file>
+    </qresource>
+    <qresource prefix="/enemies">
+        <file>assets/enemy1.png</file>
+        <file>assets/enemy2.png</file>
+        <file>assets/enemy3.png</file>
+        <file>assets/enemy4.png</file>
+        <file>assets/enemy5.png</file>
+        <file>assets/enemy6.png</file>
+        <file>assets/enemy7.png</file>
+    </qresource>
+    <qresource prefix="/arrows">
+        <file>assets/arrow1.png</file>
+        <file>assets/arrow2.png</file>
+        <file>assets/arrow3.png</file>
+        <file>assets/arrow4.png</file>
+    </qresource>
+</RCC>

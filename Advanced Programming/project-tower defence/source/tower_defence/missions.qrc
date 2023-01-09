@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/missionclass1">
+        <file>missions/mission1/mission.txt</file>
+        <file>assets/map1.bmp</file>
+    </qresource>
+</RCC>
