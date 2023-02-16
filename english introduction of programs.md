@@ -2,6 +2,8 @@
 
 #### ----a kingdom rush-like tower defense game
 
+#### year: 2021 course: advanced programming
+
 #### 1.1 General game description
 
 In the game, the enemy army will be generated at the starting point of the enemy's marching path at a specific time and march towards the end point. The marching path is a specific enemy walking route for different maps. There can be many paths, and the enemies will be selected in turn according to the order in which they are generated. After the enemy reaches the end, the player's life value will -1, which means that the base camp is invaded by the enemy. When the player's life value returns to 0, the level challenge will fail. If the player kills all the enemies, the level will succeed. Players can build defensive towers to prevent enemies from reaching the end. There are two types of defense towers: melee towers built on the enemy's marching path and ranged towers built beside the enemy's marching path. Melee towers generally have the function of blocking the enemy and attacking the enemy to a certain extent. The ranged tower has a larger attack range, but its own defense is weak and is easily destroyed by the enemy's cunning siege equipment. There are also many types of enemies, including ordinary robbers, scouts who ignore the blocking effect of melee towers, pilots who can cause damage to melee towers but can't be hit by them, and archers who can attack melee towers from a distance, the catapult that can attack all defense towers from a long distance, the shaman who can heal the friendly forces, and the generals who buff the friendly forces...Facing different enemies, player should adopt different strategies and build different towers, and finally smash their terrible attacks.
@@ -38,7 +40,9 @@ some other towers
 
 win or lose game
 
-### 2 A C-- Compiler
+### 2 A C-- Compiler 
+
+#### year: 2021 course: principals of compiler
 
 C-- is a C-style programming language created by the lecture tutors. My job is to use C to realize a C-- compiler and run some programs based on it. It is a quite tough project and the teacher gives few hints.
 
@@ -56,9 +60,11 @@ result of a simple program parsed by the compiler
 
 ### 3 A 2D shape drawing tool
 
+#### year: 2022 course: Object Oriented Design Method
+
 #### 3.1 general description
 
-As the final project of Object Oriented Design Method lecture, this project uses a lot of object-oriented programming ideas such as factory pattern, combination pattern, memo pattern, singleton pattern...
+As the final project of Object Oriented Design Method course, this project uses a lot of object-oriented programming ideas such as factory pattern, combination pattern, memo pattern, singleton pattern...
 
 ![image](https://raw.githubusercontent.com/xuanchaix/computerlab_md_picture/main/mxdx/1.png)
 
@@ -105,6 +111,8 @@ deformation of graphics
 Support ctrl+u to set the graphics to the top; ctrl+l to set the graphics to the bottom.
 
 ### 4. Turing machine with a program to find greatest common divisor of two numbers
+
+#### year: 2021 course: Formal Languages and Automata
 
 #### 4.1 description
 

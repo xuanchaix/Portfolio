@@ -2,4 +2,6 @@
 
 ### used for application
 
-#### combined with 4 program and 2 board games
+#### consists of 4 programs and 2 board games
+
+#### see details in introduction.pdf
